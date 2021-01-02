@@ -1,4 +1,4 @@
-# Ping_Pong_Game
+# Tennis_Game
 
 A classic gui tennis game built using simple multi threading, swing and OOP concepts in Java.
 
